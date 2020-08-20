@@ -3,7 +3,7 @@
 
 title: "Chronos"
 subtitle: ""
-summary: ""
+summary: "Chronos"
 authors: []
 tags: []
 categories: []
