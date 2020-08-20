@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Hi, I'm Maleen. I am interested in using novel software/hardware techniques to accelerate computationally challenging applications. I build C++ simulators to validate architectural ideas, write RTL to estimate complexity, and build FPGA accelerators using this RTL to accelerate real world applications.
+Hi, I'm Maleen. I am interested in novel software/hardware techniques to accelerate computationally challenging applications. I build C++ simulators to validate architectural ideas, write RTL to estimate complexity, and build FPGA accelerators.
 
 At MIT, I work with Daniel Sanchez on the Swarm project, where we investigate, using speculative execution to accelarate certain hard-to-parallelize applications such as shortest path computations and discrete event simulations. My most recent project, Chronos, shows that these ideas can be used to build FPGA accelerators that performs 5x faster than 40-threaded CPUs.
 
