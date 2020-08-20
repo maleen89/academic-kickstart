@@ -11,7 +11,7 @@ dateL "2020 March"
 lastmod: 2020-08-20T14:29:25-04:00
 featured: true
 draft: false
-publication_short = "In *ASPLOS*"
+publication_short: "In *ASPLOS*"
 publication_types: ["1"]
 
 url_code: "https://github.com/SwarmArch/chronos"
