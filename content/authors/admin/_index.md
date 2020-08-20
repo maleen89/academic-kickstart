@@ -67,6 +67,17 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Maleen. I am interested in using novel software/hardware techniques to accelerate computationally challenging applications. I build C++ simulators to validate architectural ideas, write RTL to estimate complexity, and build FPGA accelerators using this RTL to accelerate real world applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At MIT, I work with Daniel Sanchez on the Swarm project, where we investigate, using speculative execution to accelarate certain hard-to-parallelize applications such as shortest path computations (TODO: link to wikipedia dijkstra) and discrete event simulations. My most recent project, Chronos, shows that these ideas can be used to build FPGA accelerators that performs 5x faster than 40-threaded CPUs.
+
+Before starting grad school, I did my undergrad at University or Moratuwa in Sri Lanka. For my thesis there, I was part of a team that built an FPGA accelerator for HEVC/H.265 video decoding, whcich at the time. was the first ever demonstration of real time 4K HEVC decoding on an FPGA. This work led to the founding of Paraqum Technologies, which provides FPGA-based acceleration solutions to clients in the Asia-Pacific region.
+
+In addition, I did consulting work for Wave computing, helping write new benchmarks to validate their CGRA architecture, and I have also interned at Microsoft Research's Brainwave project, a deep-learning accelerator for FPGAs.
+
+I am looking to graduate in summer 2021, and is now looking for full-time inudstry roles.
+
+My full CV.
+
+
+
