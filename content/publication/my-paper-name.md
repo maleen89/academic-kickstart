@@ -11,6 +11,7 @@ date: 2020-08-20T14:29:25-04:00
 lastmod: 2020-08-20T14:29:25-04:00
 featured: false
 draft: false
+publication_types = ["1"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
