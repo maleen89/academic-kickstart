@@ -13,7 +13,8 @@ draft: false
 publication_types: ["1"]
 
 url_code: "https://github.com/SwarmArch/chronos"
-url_slides: "talks/2020.chronos.asplos.pdf"
+url_pdf: "docs/2020.chronos.asplos.pdf"
+url_slides: "slides/2020.chronos.asplos.slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
