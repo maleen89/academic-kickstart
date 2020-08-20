@@ -3,7 +3,7 @@
 
 title: "Chronos: Efficient Speculative Parallelism for Accelerators"
 subtitle: ""
-summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent architectures, including accelerators. We demonstrate its feasibility and benefits by building FPGA accelerators for four applications. When run on commodity AWS FPGA instances, these accelerators outperform state-of-the-art software versions running on a higher-priced multicore instance by 3.5× to 15.3×.
+summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent architectures, including accelerators. We demonstrate its feasibility and benefits by building FPGA accelerators for four applications. When run on commodity AWS FPGA instances, these accelerators outperform state-of-the-art software versions running on a higher-priced multicore instance by 3.5× to 15.3×."
 authors: ["Maleen Abeydeera", "Daniel Sanchez"]
 tags: []
 categories: []
