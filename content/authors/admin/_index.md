@@ -69,15 +69,14 @@ user_groups:
 
 Hi, I'm Maleen. I am interested in using novel software/hardware techniques to accelerate computationally challenging applications. I build C++ simulators to validate architectural ideas, write RTL to estimate complexity, and build FPGA accelerators using this RTL to accelerate real world applications.
 
-At MIT, I work with Daniel Sanchez on the Swarm project, where we investigate, using speculative execution to accelarate certain hard-to-parallelize applications such as shortest path computations (TODO: link to wikipedia dijkstra) and discrete event simulations. My most recent project, Chronos, shows that these ideas can be used to build FPGA accelerators that performs 5x faster than 40-threaded CPUs.
+At MIT, I work with Daniel Sanchez on the Swarm project, where we investigate, using speculative execution to accelarate certain hard-to-parallelize applications such as shortest path computations and discrete event simulations. My most recent project, Chronos, shows that these ideas can be used to build FPGA accelerators that performs 5x faster than 40-threaded CPUs.
 
-Before starting grad school, I did my undergrad at University or Moratuwa in Sri Lanka. For my thesis there, I was part of a team that built an FPGA accelerator for HEVC/H.265 video decoding, whcich at the time. was the first ever demonstration of real time 4K HEVC decoding on an FPGA. This work led to the founding of Paraqum Technologies, which provides FPGA-based acceleration solutions to clients in the Asia-Pacific region.
+Before starting grad school, I did my undergrad at University or Moratuwa in Sri Lanka. For my thesis, I was part of a 4-person team that designed and built an FPGA accelerator for HEVC/H.265 video decoding. This work led to the founding of Paraqum Technologies, which provides FPGA-based acceleration solutions to clients in the Asia-Pacific region.
 
 In addition, I did consulting work for Wave computing, helping write new benchmarks to validate their CGRA architecture, and I have also interned at Microsoft Research's Brainwave project, a deep-learning accelerator for FPGAs.
 
 I am looking to graduate in summer 2021, and is now looking for full-time inudstry roles.
 
-My full CV.
 
 
 
