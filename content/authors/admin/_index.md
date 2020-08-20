@@ -72,7 +72,7 @@ Before starting grad school, I did my undergrad at University or Moratuwa in Sri
 
 In addition, I did consulting work for [Wave computing](https://wavecomp.ai/), helping write new benchmarks to validate their CGRA architecture, and I have also interned at Microsoft Research's Brainwave project, a deep-learning accelerator for FPGAs.
 
-I am looking to graduate in summer 2021, and is looking for full-time inudstry roles.
+I am looking to graduate in summer 2021, and is looking for full-time industry roles.
 
 
 
