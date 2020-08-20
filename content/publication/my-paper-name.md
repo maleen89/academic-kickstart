@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Paper Name"
+title: "Chronos: Efficient Speculative Parallelism for Accelerators"
 subtitle: ""
-summary: ""
+summary: "Chronos proposes simplificitation of Swarm for non-cache coherent architecture, including accelerators. We demonstrate its benefits by building FPGA accelerators for four applications with speedups of 3.7x - 16x over 40-threaded CPU"
 authors: []
 tags: []
 categories: []
 date: 2020-08-20T14:29:25-04:00
 lastmod: 2020-08-20T14:29:25-04:00
-featured: false
+featured: true
 draft: false
 publication_types: ["1"]
 
