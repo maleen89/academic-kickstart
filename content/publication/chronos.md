@@ -15,6 +15,7 @@ publication_types: ["1"]
 url_code: "https://github.com/SwarmArch/chronos"
 url_pdf: "docs/2020.chronos.asplos.pdf"
 url_slides: "slides/2020.chronos.asplos.slides.pdf"
+url_video: "https://www.youtube.com/watch?v=B5U-J_fKVFY"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
