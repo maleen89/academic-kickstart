@@ -2,13 +2,15 @@
 title: "Chronos: Efficient Speculative Parallelism for Accelerators"
 subtitle: ""
 date: 2020-08-20T17:26:50.654Z
-draft: true
+draft: false
 featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+![]()
+
 <!--StartFragment-->
 
 **Maleen Abeydeera, Daniel Sanchez** 
