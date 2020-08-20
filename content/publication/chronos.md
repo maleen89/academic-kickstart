@@ -7,7 +7,7 @@ summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent ar
 authors: ["Maleen Abeydeera", "Daniel Sanchez"]
 tags: []
 categories: []
-lastmod: "2020-03-15"
+lastmod: 2020-03-15
 featured: true
 draft: false
 publication_short: "In *ASPLOS*"
