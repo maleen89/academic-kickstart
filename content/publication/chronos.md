@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
 
-url_pdf = "http://people.csail.mit.edu/sanchez/papers/2020.chronos.asplos.pdf"
+# url_pdf = "http://people.csail.mit.edu/sanchez/papers/2020.chronos.asplos.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
