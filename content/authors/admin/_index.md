@@ -42,15 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=eeK8Kp0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/maleen89
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +64,16 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Maleen. I am interested in novel software/hardware techniques to accelerate computationally challenging applications. I build C++ simulators to validate architectural ideas, write RTL to estimate complexity, and build FPGA solutions to accelerate real-world applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At MIT, I work with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/) on the [Swarm](http://swarm.csail.mit.edu/) project, where we investigate, using speculative execution to accelarate certain hard-to-parallelize applications such as [shortest path computations](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) and [discrete event simulations](https://en.wikipedia.org/wiki/Discrete-event_simulation). My most recent project, [Chronos](https://github.com/SwarmArch/chronos), shows that these ideas can be used to build FPGA accelerators that runs 5x faster than 40-threaded CPUs.
+
+Before starting grad school, I did my undergrad at University or Moratuwa in Sri Lanka. For my thesis, I was part of a 4-person team that designed and built an FPGA accelerator for HEVC/H.265 video decoding. This work led to the founding of [Paraqum Technologies](https://paraqum.com/), which provides FPGA-based acceleration solutions to clients in the Asia-Pacific region.
+
+In addition, I did consulting work for [Wave computing](https://wavecomp.ai/), helping write new benchmarks to validate their CGRA architecture, and I have also interned at Microsoft Research's Brainwave project, a deep-learning accelerator for FPGAs.
+
+I am looking to graduate in summer 2021, and is looking for full-time inudstry roles.
+
+
+
+
