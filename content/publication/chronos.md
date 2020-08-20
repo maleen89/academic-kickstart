@@ -3,12 +3,11 @@
 
 title: "Chronos: Efficient Speculative Parallelism for Accelerators"
 subtitle: ""
-summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent architectures, including accelerators. We demonstrate its feasibility and benefits by building FPGA accelerators for four applications with speedups of 3.7x - 16x over a 40-threaded CPU"
+summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent architectures, including accelerators. We demonstrate its feasibility and benefits by building FPGA accelerators for four applications with speedups of 3.5x - 16x over a 40-threaded CPU"
 authors: ["Maleen Abeydeera", "Daniel Sanchez"]
 tags: []
 categories: []
 date: "2020-03"
-lastmod: 2020-08-20T14:29:25-04:00
 featured: true
 draft: false
 publication_short: "In *ASPLOS*"
