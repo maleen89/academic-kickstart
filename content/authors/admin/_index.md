@@ -69,7 +69,7 @@ user_groups:
 
 Hi, I'm Maleen. I am interested in novel software/hardware techniques to accelerate computationally challenging applications. I build C++ simulators to validate architectural ideas, write RTL to estimate complexity, and build FPGA accelerators.
 
-At MIT, I work with Daniel Sanchez on the Swarm project, where we investigate, using speculative execution to accelarate certain hard-to-parallelize applications such as shortest path computations and discrete event simulations. My most recent project, Chronos, shows that these ideas can be used to build FPGA accelerators that performs 5x faster than 40-threaded CPUs.
+At MIT, I work with Daniel Sanchez on the Swarm project, where we investigate, using speculative execution to accelarate certain hard-to-parallelize applications such as shortest path computations and discrete event simulations. My most recent project, Chronos, shows that these ideas can be used to build FPGA accelerators that runs 5x faster than 40-threaded CPUs.
 
 Before starting grad school, I did my undergrad at University or Moratuwa in Sri Lanka. For my thesis, I was part of a 4-person team that designed and built an FPGA accelerator for HEVC/H.265 video decoding. This work led to the founding of Paraqum Technologies, which provides FPGA-based acceleration solutions to clients in the Asia-Pacific region.
 
