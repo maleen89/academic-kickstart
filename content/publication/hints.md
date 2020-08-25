@@ -4,9 +4,7 @@
 title: "Data-Centric Execution of Speculative Parallel Programs"
 subtitle: ""
 summary: "This work presents *spatial hints*, a technique that leverages program knowledge to reveal and exploit locality in speculative parallel
-programs. We show it is easy to modify programs to convey locality through hints. We design simple hardware techniques that allow a state-of-the-art, tiled speculative architecture to exploit hints. Hints make speculative parallelism practical on large-scale systems: at 256 cores, hints achieve nearlinear scalability on nine challenging applications, improving
-performance over hint-oblivious scheduling by 3.3× gmean and
-by up to 16×"
+programs. We show it is easy to modify programs to convey locality through hints. We design simple hardware techniques that allow a state-of-the-art, tiled speculative architecture to exploit hints. Hints make speculative parallelism practical on large-scale systems: at 256 cores, hints achieve nearlinear scalability on nine challenging applications, improving performance over hint-oblivious scheduling by 3.3× gmean and by up to 16×."
 authors: ["Mark C. Jeffrey", "Suvinay Subramanian", "Maleen Abeydeera", "Joel Emer", "Daniel Sanchez" ]
 tags: []
 categories: []
