@@ -3,7 +3,7 @@
 
 title: "4K Real-Time HEVC Decoder on an FPGA"
 subtitle: ""
-summary: "This work presents an FPGA-based harware implementation of a real-time 4K 30 fps HEVC decoder. Achieving such high perfromance on a low 150 MHz frequency required many architectural novelties, such as exploitation of the sparsity of transformed coefficient matrix, a single-cycle reference pixel processing in intra prediction, and flexible 8 × 8 block ordering in DBF/SAO"
+summary: "This work presents an FPGA-based harware implementation of a real-time 4K 30 fps HEVC decoder. Achieving such high perfromance on a low 150 MHz frequency required many architectural novelties, such as exploitation of the sparsity of transformed coefficient matrix, a single-cycle reference pixel processing in intra prediction, and flexible 8 × 8 block ordering in DBF/SAO."
 authors: ["Maleen Abeydeera", "Manupa Karunaratne", "Geethan Karunaratne", "Kalana De Silva", "Ajith Pasqual"]
 tags: []
 categories: []
