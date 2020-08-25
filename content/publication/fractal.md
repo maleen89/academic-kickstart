@@ -1,22 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Chronos: Efficient Speculative Parallelism for Accelerators"
+title: "Fractal: An Execution Model for Fine-Grain Nested Speculative Parallelism"
 subtitle: ""
-summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent architectures, including accelerators. We demonstrate its feasibility and benefits by building FPGA accelerators for four applications. When run on commodity AWS FPGA instances, these accelerators outperform state-of-the-art software versions running on a higher-priced multicore instance by 3.5× to 15.3×."
-authors: ["Maleen Abeydeera", "Daniel Sanchez"]
+summary: "Fractal is a new execution model that supports unordered and timestamp-ordered nested parallelism. Fractal lets programmers seamlessly compose speculative parallel algorithms, and lets the architecture exploit parallelism at all levels. Our approach sidesteps the issues of nested parallel HTMs and uncovers abundant fine-grain parallelism. As a result, FRACTAL outperforms prior speculative architectures by up to 88× at 256 cores"
+authors: ["Suvinay Subramanian", "Mark C. Jeffrey", "Maleen Abeydeera", "Hyun Ryong Lee", "Victor Ying", "Joel Emer", "Daniel Sanchez" ]
 tags: []
 categories: []
-lastmod: 2020-03-15
+lastmod: 2017-06-15
 featured: true
 draft: false
-publication_short: "In *ASPLOS*"
+publication_short: "In *ISCA*"
 publication_types: ["1"]
 
-url_code: "https://github.com/SwarmArch/chronos"
-url_pdf: "docs/2020.chronos.asplos.pdf"
-url_slides: "slides/2020.chronos.asplos.slides.pdf"
-url_video: "https://www.youtube.com/watch?v=B5U-J_fKVFY"
+url_pdf: "docs/2017.fractal.isca.pdf"
+url_slides: "slides/2017.fractal.isca.slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
