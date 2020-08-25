@@ -3,7 +3,7 @@
 
 title: "Fractal: An Execution Model for Fine-Grain Nested Speculative Parallelism"
 subtitle: ""
-summary: "Fractal is a new execution model that supports unordered and timestamp-ordered nested parallelism. Fractal lets programmers seamlessly compose speculative parallel algorithms, and lets the architecture exploit parallelism at all levels. Our approach sidesteps the issues of nested parallel HTMs and uncovers abundant fine-grain parallelism. As a result, FRACTAL outperforms prior speculative architectures by up to 88× at 256 cores"
+summary: "Fractal is a new execution model that supports unordered and timestamp-ordered nested parallelism. Fractal lets programmers seamlessly compose speculative parallel algorithms, and lets the architecture exploit parallelism at all levels. Our approach sidesteps the issues of nested parallel HTMs and uncovers abundant fine-grain parallelism. As a result, Fractal outperforms prior speculative architectures by up to 88× at 256 cores"
 authors: ["Suvinay Subramanian", "Mark C. Jeffrey", "Maleen Abeydeera", "Hyun Ryong Lee", "Victor Ying", "Joel Emer", "Daniel Sanchez" ]
 tags: []
 categories: []
