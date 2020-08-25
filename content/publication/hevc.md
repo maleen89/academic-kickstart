@@ -3,20 +3,17 @@
 
 title: "Chronos: Efficient Speculative Parallelism for Accelerators"
 subtitle: ""
-summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent architectures, including accelerators. We demonstrate its feasibility and benefits by building FPGA accelerators for four applications. When run on commodity AWS FPGA instances, these accelerators outperform state-of-the-art software versions running on a higher-priced multicore instance by 3.5× to 15.3×."
-authors: ["Maleen Abeydeera", "Daniel Sanchez"]
+summary: "This work presents an FPGA-based harware implementation of a real-time 4K 30 fps HEVC decoder. Achieving such high perfromance on a low 150 MHz frequency required many architectural novelties, such as exploitation of the sparsity of transformed coefficient matrix".
+authors: ["Maleen Abeydeera", "Manupa Karunaratne", " Geethan Karunaratne", "Kalana De Silva", "Ajith Pasqual"]
 tags: []
 categories: []
-lastmod: 2020-03-15
+lastmod: 2016-01-15
 featured: true
 draft: false
-publication_short: "In *ASPLOS*"
+publication_short: "In *IEEE TCSVT*"
 publication_types: ["1"]
 
-url_code: "https://github.com/SwarmArch/chronos"
-url_pdf: "docs/2020.chronos.asplos.pdf"
-url_slides: "slides/2020.chronos.asplos.slides.pdf"
-url_video: "https://www.youtube.com/watch?v=B5U-J_fKVFY"
+url_pdf: "docs/2016.hevc.tcsvt.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
