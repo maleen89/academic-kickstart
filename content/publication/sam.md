@@ -1,22 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Chronos: Efficient Speculative Parallelism for Accelerators"
+title: "SAM: Optimizing Multithreaded Cores for Speculative Parallelism"
 subtitle: ""
-summary: "Chronos proposes a simplificatation of Swarm for non-cache coherent architectures, including accelerators. We demonstrate its feasibility and benefits by building FPGA accelerators for four applications. When run on commodity AWS FPGA instances, these accelerators outperform state-of-the-art software versions running on a higher-priced multicore instance by 3.5× to 15.3×."
-authors: ["Maleen Abeydeera", "Daniel Sanchez"]
+summary: "This work studies the interplay between multithreaded cores and speculative parallelism. These techniques are often
+used together, yet they have been developed independently, causing major performance pathologies. This paper presents SAM, a simple instruction issue policy that addresses these pathologies by focusing execution resources on work that is more likely to commit, avoiding aborts and using speculation resources more efficiently. On a system with 64, 8-threaded SMT cores, SAM reduces wasted work by 52%."
+authors: ["Maleen Abeydeera", "Suvinay Subramanian", "Mark C. Jeffrey", "Joel Emer", "Daniel Sanchez"]
 tags: []
 categories: []
-lastmod: 2020-03-15
+lastmod: 2017-09-15
 featured: true
 draft: false
-publication_short: "In *ASPLOS*"
+publication_short: "In *PACT*"
 publication_types: ["1"]
 
-url_code: "https://github.com/SwarmArch/chronos"
-url_pdf: "docs/2020.chronos.asplos.pdf"
-url_slides: "slides/2020.chronos.asplos.slides.pdf"
-url_video: "https://www.youtube.com/watch?v=B5U-J_fKVFY"
+url_pdf: "docs/2017.sam.pact.pdf"
+url_slides: "slides/sam.slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
