@@ -1,20 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fractal: An Execution Model for Fine-Grain Nested Speculative Parallelism"
+title: "Data-Centric Execution of Speculative Parallel Programs"
 subtitle: ""
-summary: "Fractal is a new execution model that supports unordered and timestamp-ordered nested parallelism. Fractal lets programmers seamlessly compose speculative parallel algorithms, and lets the architecture exploit parallelism at all levels. Our approach sidesteps the issues of nested parallel HTMs and uncovers abundant fine-grain parallelism. As a result, Fractal outperforms prior speculative architectures by up to 88× at 256 cores."
-authors: ["Suvinay Subramanian", "Mark C. Jeffrey", "Maleen Abeydeera", "Hyun Ryong Lee", "Victor Ying", "Joel Emer", "Daniel Sanchez" ]
+summary: "This work presents *spatial hints*, a technique that leverages program knowledge to reveal and exploit locality in speculative parallel
+programs. We show it is easy to modify programs to convey locality through hints. We design simple hardware techniques that allow a state-of-the-art, tiled speculative architecture to exploit hints. Hints make speculative parallelism practical on large-scale systems: at 256 cores, hints achieve nearlinear scalability on nine challenging applications, improving
+performance over hint-oblivious scheduling by 3.3× gmean and
+by up to 16×"
+authors: ["Mark C. Jeffrey", "Suvinay Subramanian", "Maleen Abeydeera", "Joel Emer", "Daniel Sanchez" ]
 tags: []
 categories: []
-lastmod: 2017-06-15
+lastmod: 2016-10-15
 featured: true
 draft: false
-publication_short: "In *ISCA*"
+publication_short: "In *MICRO*"
 publication_types: ["1"]
 
-url_pdf: "docs/2017.fractal.isca.pdf"
-url_slides: "slides/2017.fractal.isca.slides.pdf"
+url_pdf: "docs/2016.hints.micro.pdf"
+url_slides: "slides/2016.hints.micro.slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
