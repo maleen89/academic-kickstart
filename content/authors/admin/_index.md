@@ -75,6 +75,8 @@ In addition, I did consulting work for [Wave computing](https://wavecomp.ai/), h
 
 I am looking to graduate in summer 2021, and is looking for full-time industry roles.
 
+[Resume](docs/Maleen_Abeydeera_Resume.pdf)
+
 
 
 
