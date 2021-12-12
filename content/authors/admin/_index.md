@@ -65,6 +65,8 @@ user_groups:
 - Visitors
 ---
 
+**Update:** I have graduated from MIT in June 2021 and have joined [Waymo](https://waymo.com) as a software engineer. 
+
 Hi, I'm Maleen. I am interested in novel software/hardware techniques to accelerate computationally challenging applications. I build C++ simulators to validate architectural ideas, write RTL to estimate complexity, and build FPGA solutions to accelerate real-world applications.
 
 At MIT, I work with [Daniel Sanchez](http://people.csail.mit.edu/sanchez/) on the [Swarm](http://swarm.csail.mit.edu/) project, where we investigate how to use speculative execution to accelerate certain hard-to-parallelize applications such as [shortest path computations](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) and [discrete event simulations](https://en.wikipedia.org/wiki/Discrete-event_simulation). My most recent project, [Chronos](https://github.com/SwarmArch/chronos), shows that these ideas can be used to build FPGA accelerators that runs 5x faster than 40-threaded CPUs.
